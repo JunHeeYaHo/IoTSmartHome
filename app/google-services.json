@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "567778935482",
+    "project_id": "gocook-5bab6",
+    "storage_bucket": "gocook-5bab6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567778935482:android:c729298d944d38e253f883",
+        "android_client_info": {
+          "package_name": "com.example.gocook___"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567778935482-iibrthgeaj8nsc2c58465hd2uqunbi3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbIoo4xR0_6pfLRY0grggIY1b1CSEYN2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567778935482-iibrthgeaj8nsc2c58465hd2uqunbi3o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
